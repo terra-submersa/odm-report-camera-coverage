@@ -29,6 +29,7 @@ requests==2.32.2
 requests-toolbelt==1.0.0
 rfc3986==2.0.0
 rich==13.7.1
+setuptools
 scipy==1.13.1
 six==1.16.0
 tomli==2.0.1
